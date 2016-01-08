@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzle/guzzle": "~3.7",
+        "dersam/rt-php-lib": "dev-master",
+        "cpliakas/jira": "dev-master",
+        "chobie/jira-api-restclient": "dev-master"
+    }
+}
